@@ -2,7 +2,7 @@
 
 A real-time voice-driven system that converts human speech into executable actions using Python.
 
-Zeron listens, processes intent, and performs tasks across the system and web — acting as a minimal voice interface between user and machine.
+Zeron listens, processes intent, and performs tasks across the system and web - acting as a minimal voice interface between user and machine.
 
 ---
 
